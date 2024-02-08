@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorTransientDisposables", "BlazorTransientDisposables\BlazorTransientDisposables\BlazorTransientDisposables.csproj", "{BC27A3F9-3B05-4283-B224-4CFF5F5D2F29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorTransientDisposables.Client", "BlazorTransientDisposables\BlazorTransientDisposables.Client\BlazorTransientDisposables.Client.csproj", "{04624209-DA01-47EF-A16C-B1E73869B71E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC27A3F9-3B05-4283-B224-4CFF5F5D2F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC27A3F9-3B05-4283-B224-4CFF5F5D2F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC27A3F9-3B05-4283-B224-4CFF5F5D2F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC27A3F9-3B05-4283-B224-4CFF5F5D2F29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04624209-DA01-47EF-A16C-B1E73869B71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04624209-DA01-47EF-A16C-B1E73869B71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04624209-DA01-47EF-A16C-B1E73869B71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04624209-DA01-47EF-A16C-B1E73869B71E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2ACEDD9-A888-4697-A855-E169DC77007C}
+	EndGlobalSection
+EndGlobal
